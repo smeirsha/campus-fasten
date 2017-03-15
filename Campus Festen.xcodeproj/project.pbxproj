@@ -329,6 +329,11 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0430;
+				TargetAttributes = {
+					920EBE23147535F200931269 = {
+						DevelopmentTeam = H2H58GY7CF;
+					};
+				};
 			};
 			buildConfigurationList = 920EBE1E147535F100931269 /* Build configuration list for PBXProject "Campus Festen" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -475,6 +480,7 @@
 		920EBE43147535F200931269 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = H2H58GY7CF;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Campus Festen/Campus Festen-Prefix.pch";
 				HEADER_SEARCH_PATHS = "";
@@ -487,6 +493,7 @@
 		920EBE44147535F200931269 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = H2H58GY7CF;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Campus Festen/Campus Festen-Prefix.pch";
 				HEADER_SEARCH_PATHS = "";
